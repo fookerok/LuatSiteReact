@@ -1,5 +1,5 @@
 import { Heade } from "./components/Heade/Heade";
-
+import './App.css';
 function App() {
   return (
     <>
